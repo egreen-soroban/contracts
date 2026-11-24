@@ -1,0 +1,5 @@
+# Vottun approves every change to the Soroban contracts, the CI and these rules.
+/contracts/     @vottunio @sergimima
+/Cargo.toml     @vottunio @sergimima
+/Cargo.lock     @vottunio @sergimima
+/.github/       @vottunio @sergimima
